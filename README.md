@@ -26,3 +26,30 @@ Dorothy Vaughan é lembrada como uma referência de liderança, inteligência, c
 Sua trajetória mostra a importância da diversidade na ciência e na tecnologia, além de inspirar mulheres, especialmente mulheres negras, a ocuparem espaços nas áreas de exatas, dados, computação e inovação.
 
 A história de Dorothy Vaughan também ficou mais conhecida por meio do filme “Estrelas Além do Tempo”, que apresentou ao público a contribuição de mulheres negras para a NASA.
+
+## O que aprendi sobre Git e GitHub
+
+Durante esta atividade, aprendi que Git e GitHub são ferramentas importantes para versionamento de projetos e colaboração em tecnologia.
+
+### Comandos Git utilizados
+
+1. `git init`  
+   Inicializa um repositório Git dentro da pasta do projeto.
+
+2. `git status`  
+   Mostra o estado atual dos arquivos, indicando quais foram modificados, adicionados ou ainda não rastreados.
+
+3. `git add`  
+   Adiciona arquivos à área de preparação, deixando-os prontos para serem salvos em um commit.
+
+4. `git commit -m "mensagem"`  
+   Cria um registro das alterações feitas no projeto, com uma mensagem explicando o que foi alterado.
+
+5. `git remote add origin`  
+   Conecta o repositório local a um repositório remoto no GitHub.
+
+6. `git push`  
+   Envia os commits do computador para o repositório remoto no GitHub.
+
+7. `git branch -M main`  
+   Define ou renomeia a branch principal do projeto como `main`.
